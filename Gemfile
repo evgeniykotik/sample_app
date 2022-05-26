@@ -24,6 +24,7 @@ group :development, :test do
   gem 'sqlite3',     '>= 1.3.9'
   gem 'byebug',      '>= 3.4.0'
   gem 'web-console', '>= 3.3.0'
+  gem  'rails-controller-testing', '~> 0.0.3'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
