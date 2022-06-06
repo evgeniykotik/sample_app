@@ -1,0 +1,15 @@
+one:
+  follower: postoyalko
+  followed: lana
+
+two:
+  follower: postoyalko
+  followed: malory
+
+three:
+  follower: lana
+  followed: postoyalko
+
+four:
+  follower: archer
+  followed: postoyalko
